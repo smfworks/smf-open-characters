@@ -6,8 +6,8 @@ Built-in image and video generation was used to build this kit. These notes are 
 - Ask for a candid real photograph, mixed 35mm documentary and phone-camera looks, practical light, sensor noise, moderate pores, and no beauty sheen. Say "no sparkly catchlights, no lash polish" in portrait prompts. "Cinematic" and "beauty lighting" work against the standard.
 - Portrait views 01–05 are 3:4. In-world views 06–09, which may become video first frames, are 16:9.
 - The tool may return a JPEG even when the requested filename ends in `.png`. Convert to PNG and a quality-85 JPG before a file enters `refs/`.
-- For profiles, spell out the hide rule: left-ear hoop and left-cheek scar are hidden in a right profile, never flipped to the visible side.
-- For the tattoo, say: postage-stamp-sized faded black chili-pepper silhouette, clearly a chili with a stem, no square stamp border, outer left wrist only, not mid-forearm. "Postage stamp" alone can come back as a literal stamp graphic.
+- For profiles, spell out the hide rule: the hoop and the cheek scar are on his right side (photo-left in a front view). They show in a view of his right side and are hidden in a view of his left side, never flipped to the visible side. In prompts, name both his side and the photo side ("in his right ear, on the left side of the photo"); the model often mirrors a bare "left ear".
+- For the tattoo, say: postage-stamp-sized faded black chili-pepper silhouette, clearly a chili with a stem, no square stamp border, outer left wrist only (right side of the photo in a front view), not mid-forearm. "Postage stamp" alone can come back as a literal stamp graphic.
 - For the rear view, state hair length in that view: a tight fade, a little fullness on top, ending well above the collar, no streak, no tail.
 - Image-to-video: 1080p from a first-frame still, about 5 seconds, one action or one short two-beat, one camera move. Crop 1920×1088 results by 4 pixels top and bottom to 1920×1080. Do not add last-frame, keyframe, or extra reference images if you need 1080p.
 - For the tell, demand that the flip finish before the point, and that the spatula stay a spatula. Do not add a third beat.

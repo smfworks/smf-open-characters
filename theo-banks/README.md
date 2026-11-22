@@ -24,9 +24,9 @@ On slow Tuesdays he feeds the night-shift nurses before they ask. He will not sa
 
 Only these four, and they should show in a wide shot:
 
-1. A small thin gold hoop in the left ear only. Hide it in a right profile; do not flip it to the right ear.
-2. A short pale nick-scar on the left cheek, just above the jaw, just above the jaw. Hide it in a right profile; do not flip it to the right jaw.
-3. A postage-stamp-sized faded black chili-pepper tattoo on the outer left wrist only — clearly a chili, no stamp border, not mid-forearm, not on the right arm.
+1. A small thin gold hoop in his right ear only (on the left side of the photo in a front view). Hide it in any view that shows his left side; do not flip it to the left ear.
+2. A short pale nick-scar on his right cheek, just above the jaw, on the same side as the hoop (left side of the photo in a front view). Hide it in any view that shows his left side; do not flip it to the left jaw.
+3. A postage-stamp-sized faded black chili-pepper tattoo on the outer left wrist only (the right side of the photo in a front view, opposite the hoop) — clearly a chili, no stamp border, not mid-forearm, not on the right arm.
 4. A short dark cropped cut: tight even fade on the sides and back, a short high-top of tight coils about two inches on top, no streak, no design. From behind it is the same length, ending well above the collar.
 
 ## Wardrobe

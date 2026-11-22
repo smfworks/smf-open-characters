@@ -2,7 +2,7 @@
 
 House rule: one action, or one short two-beat action, and one camera move per shot. Start from a first-frame still. Wardrobe, tools, and jewelry that start in the frame stay as they started. Identity is locked to `refs/01-headshot-front.png`. Photoreal, candid, no beauty sheen.
 
-The spatula, if present, stays a metal grill spatula with a short worn wooden handle. It does not morph into a microphone, a lamp, or a second tool. The chili tattoo, if visible, stays small and stable on the outer left wrist. The left-ear hoop stays in the left ear and does not jump sides.
+The spatula, if present, stays a metal grill spatula with a short worn wooden handle. It does not morph into a microphone, a lamp, or a second tool. The chili tattoo, if visible, stays small and stable on the outer left wrist. The hoop stays in his right ear (photo-left when he faces the camera) and does not jump sides; if he turns his left side to the camera it stays hidden.
 
 On-camera tell: He flips a spatula once, then points it at the camera.
 
@@ -24,7 +24,8 @@ If the tell is a two-beat, the flip must finish and the spatula must come out of
 - **Action:** He hands a wrapped sandwich or a paper basket out the window, one motion, and holds the offer.
 - **Camera:** Almost still, or a very slow push.
 - **Duration:** about 5 seconds.
-- **Prompt sketch:** First-frame lock. Theo hands the food out the service window in one motion. He does not leave the window. Photoreal, identity locked.
+- **Prompt sketch:** First-frame lock. Theo hands the food out the service window in one motion. He does not leave the window. Exactly two arms and two hands on Theo the whole shot; his other arm stays out of view at his side; nothing appears under the outstretched arm. His face stays turned toward the left of frame; his visible left ear stays bare with no earring. Photoreal, identity locked. Native ambient street sound only, no music.
+- **Check:** count his arms in every review frame, and confirm no hoop appears on the left ear. The model tends to put the hoop on whichever ear is visible.
 
 ### Shot C — Roadside sip (from `08-roadside-break`)
 
@@ -32,4 +33,4 @@ If the tell is a two-beat, the flip must finish and the spatula must come out of
 - **Action:** He takes one sip of his drink and looks down the street. No other action.
 - **Camera:** Almost still, or a very slow push.
 - **Duration:** about 5 seconds.
-- **Prompt sketch:** First-frame lock. Theo takes one sip and looks down the street. He stays seated. Photoreal, identity locked.
+- **Prompt sketch:** First-frame lock. Theo takes one sip and looks down the street. He stays leaning against the truck. Exactly two arms and two hands for the whole shot; the free arm stays still at his side. Photoreal, identity locked.
