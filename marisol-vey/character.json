@@ -1,0 +1,51 @@
+{
+  "id": "marisol-vey",
+  "name": "Marisol Vey",
+  "pronunciation": "MAIR-ih-sol VAY",
+  "age": "30s",
+  "age_detail": "mid-30s",
+  "hook": "A night-ferry radio operator who narrates the harbor.",
+  "genres": [
+    "noir",
+    "moody explainers",
+    "harbor drama",
+    "late-night documentary"
+  ],
+  "signature_color": "#1B4F4A",
+  "signature_color_name": "harbor-bulkhead teal",
+  "thumbnail": "marisol-vey/refs/01-headshot-front.jpg",
+  "folder": "marisol-vey",
+  "license": "CC0-1.0",
+  "credit": "optional",
+  "created_by": "SMF Works",
+  "status": "locked",
+  "locked_date": "2026-11-22",
+  "tell": "Before she speaks, she taps the ferry-token charm once against her collarbone.",
+  "story": "Marisol Vey keeps the night watch on the last ferry that still runs the long crossing after midnight. From a narrow radio room above the wheelhouse, she talks the harbor in: foghorns, delayed freighters, the fishermen who only come home when the tide allows it. Her voice is warm tea gone slightly cool, and she never rushes a weather call. On the hour she reads the weather like a promise.\n\nShe grew up in a walk-up that faced the docks, learned the channel markers before she learned long division, and took the radio job because she could not sleep anyway. On slow nights she reads the passenger list out loud to the dark water, just so the names do not feel lost. The token on her necklace belonged to her aunt, who ran this same route thirty years ago. Marisol does not talk about that much. She just keeps the channel open.",
+  "identity_block": "Marisol Vey, a woman in her mid-30s, 5 feet 7 inches tall, lean and strong through the shoulders and forearms, long-fingered hands. Long oval face with a softly squared chin, high but gentle cheekbones, a straight medium-width nose with a faint bump on the bridge, a generous mouth with a fuller lower lip, and slight natural asymmetry (the left eye a touch more hooded than the right, one side of the mouth a little higher when she smiles). Warm olive-tan skin with cool undertones in night light, uneven tone, a generous scatter of freckles across the nose, cheeks, and forehead, visible pores, peach fuzz on the cheeks and upper lip, under-eye texture and fine lines at the outer corners of the eyes, and a small round mole on the upper lip just to the right of the philtrum (always her right; in a left profile it is on the far side of the mouth and must not appear on the visible lip \u2014 if it cannot be placed correctly, hide it rather than move it). Deep moss-green eyes with a thin ring of amber around the pupil, slightly hooded lids, thick dark lashes, not over-sharpened, no perfect catchlights. The left eyebrow has a thin pale vertical scar through its outer third. Thick wavy dark chestnut hair, almost black in shadow and warm copper in lamplight, falling just past the collarbone, deep left part, a natural silver streak starting at the left temple and woven through the left side only \u2014 the right side of the head is solid dark chestnut with no silver. Usually worn loose, a little unkempt, with stray and flyaway hairs, sometimes held with a small oxidized brass anchor hair pin above the left ear. Signature wardrobe: a slightly oversized faded olive waxed field jacket or oilskin with the collar often turned up and brass snap buttons, a worn navy cable-knit sweater underneath, dark charcoal wool trousers, and scuffed chestnut leather mid-calf lace-up deck boots. Around her neck, a thin gold chain with a small round ferry-token charm stamped with a stylized wave, and a brass radio headset with a coiled cord, worn around her neck or with one ear cup on and the other hanging off. On the outer right wrist, a postage-stamp-sized faded navy-ink tattoo of a clearly readable mermaid silhouette, about the size of a postage stamp, not on the forearm. Photographed as a real person in candid, imperfect light: natural skin, sensor noise, no beauty retouching, no CGI or plastic sheen. Fictional original character, not a likeness of any real person.",
+  "voice": "smoky alt-folk; warm slightly worn alto",
+  "assets": {
+    "contact_sheet": "marisol-vey/contact-sheet.png",
+    "headshot": "marisol-vey/refs/01-headshot-front.png",
+    "proof": "marisol-vey/proof/marisol-proof.mp4",
+    "refs": [
+      "marisol-vey/refs/01-headshot-front.png",
+      "marisol-vey/refs/02-profile-left.png",
+      "marisol-vey/refs/03-profile-right.png",
+      "marisol-vey/refs/04-fullbody-front.png",
+      "marisol-vey/refs/05-fullbody-rear.png",
+      "marisol-vey/refs/06-radio-room-night.png",
+      "marisol-vey/refs/07-harbor-deck-fog.png",
+      "marisol-vey/refs/08-close-listening.png",
+      "marisol-vey/refs/09-sweater-thermos.png"
+    ]
+  },
+  "wardrobe_notes": {
+    "boots": "scuffed chestnut leather mid-calf lace-up deck boots",
+    "tattoo": "postage-stamp-sized mermaid silhouette, faded navy ink, outer right wrist only",
+    "headset": "brass radio headset, around the neck, or one cup on and one hanging off",
+    "silver_streak": "left temple and left side only",
+    "mole": "upper lip, just to the right of the philtrum (her right)"
+  },
+  "photography": "Candid real photography: mixed 35mm documentary and phone-camera looks, harsh practical light, sensor noise, imperfect focus, no beauty sheen."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "kip-morrow",
+  "name": "Kip Morrow",
+  "pronunciation": "KIP MOR-oh",
+  "age": "late teens",
+  "age_detail": "19",
+  "hook": "A skate-shop kid who builds small robots in the back room after closing.",
+  "genres": [
+    "tech",
+    "gaming",
+    "Gen Z promos",
+    "lo-fi and bedroom pop"
+  ],
+  "signature_color": "#84CC16",
+  "signature_color_name": "electric lime",
+  "thumbnail": "kip-morrow/refs/01-headshot-front.jpg",
+  "folder": "kip-morrow",
+  "license": "CC0-1.0",
+  "credit": "optional",
+  "created_by": "SMF Works",
+  "status": "locked",
+  "tell": "He flicks one toggle on his little desk robot and its eye blinks on once.",
+  "story": "Kip Morrow is nineteen and works the register, the repair bench, and the late shift at a small independent skate shop. He grew up in the back of that shop, sweeping up grip-tape scraps and watching the owner true wheels, and when the owner started letting him lock up, he started staying after. The back room is his now: a scarred workbench, a clamp-on lamp, a coffee can of salvaged motors, and a soldering iron he bought used with his first paycheck. He builds small robots out of scrap — broken toys, dead phones, a skateboard bearing for a wheel — and he names none of them. He talks fast and dry, half-joking, and usually knows the answer before you finish the question. The LED band on his wrist was his first board that worked; he never took it off. The scorch on his hoodie cuff came from the second board. After every build, before he says anything, he flicks one toggle on the little robot and waits for its eye to blink on, and for a second the tired face goes quiet, like the thing just said hello back.",
+  "identity_block": "Kip Morrow, a Filipino-American young man, 19 years old, about 5 feet 7 inches tall, slim and a little narrow-shouldered, with the loose slouch of someone who sits hunched over a workbench. An oval face with slightly wide cheekbones, a low flat nose bridge with a soft rounded tip, dark brown almond-shaped eyes with a slight single-lid fold and faint shadows underneath, straight thick dark eyebrows, a medium mouth with a slightly fuller lower lip, a soft jaw, and natural asymmetry (the left eyebrow sits a touch higher, a half smile pulls to the left). Light-medium warm tan skin with real texture: visible but moderate pores, a few small faded acne marks on the jaw and one on the forehead, faint oily shine on the nose, sparse patchy upper-lip fuzz, under-eye tiredness, uneven tone, no makeup. Natural short lashes, no sparkly catchlights, only a small dim natural highlight if any. Teeth, if they ever show, are slightly off-white with natural variation, not an even ad-white row. Fictional original face, not a likeness of any real person, skater, streamer, musician, actor, or influencer. Hair: a shaggy dark black-brown mop, thick and straight-to-slightly-wavy, ear-length all around, a messy fringe falling to the eyebrows, with a few uneven bleached brassy-blond ends at the very tips of the fringe only; from behind the mop ends just above the hoodie collar at the nape, the same length, no tail, no undercut. Three visible locks only, all on his LEFT side: (1) a small solid matte-black plug, about the size of a pencil eraser, in his LEFT earlobe only — his right ear has no piercing and no jewelry; in a right profile the plug is on the far side and must be hidden, never flipped to the right ear; (2) a hand-soldered LED band on his LEFT wrist only: a bare green circuit-board strip about one centimeter wide with a row of five tiny surface-mount LEDs and a few silver solder blobs, held on by a plain black elastic strap, no logo, no lettering, the LEDs glowing a soft lime green — his right wrist is bare; (3) a worn, faded electric-lime pullover hoodie the color of #84CC16, sun-faded and pilled, completely unbranded with no print, no logo, no lettering, with a small brown-black scorch burn mark on the LEFT cuff only, the hood down. Under the hoodie a plain faded grey t-shirt. Loose faded black work pants and beat-up plain black canvas skate shoes with scuffed toes, no logos, no stripes. Hands: scuffed knuckles, a couple of tiny solder-burn marks on the fingertips, dark grime under the nails, no rings. No other jewelry, no necklace, no watch, no hat. Props stay unprinted: blank natural-wood skateboard decks, plain black grip tape, a plain soldering iron, and his little desk robot — a palm-sized hand-built two-wheeled robot with a scuffed grey unbranded chassis, visible red and black wiring, a single round eye LED, and one small silver toggle switch on top. Photographed as a real person in candid, imperfect light: mixed phone-camera and 35mm documentary looks, harsh skate-shop fluorescent tubes, a warm workbench lamp, phone flash at night, mixed practical color casts, slight underexposure, sensor noise, grain, imperfect focus, real skin, no beauty retouching, no CGI or plastic sheen. Tired after-close candids; a small closed-mouth smirk at most, in one or two frames; mid-task moments, not hero poses, not skate-ad or brand-campaign stances. No brands, no printed deck graphics, no readable text anywhere.",
+  "voice": "lo-fi and bedroom pop; 19-year-old quick, wry tenor, close and conversational, a little dry and half-spoken in the verse, lifting into a light, easy chorus",
+  "assets": {
+    "contact_sheet": "kip-morrow/contact-sheet.png",
+    "headshot": "kip-morrow/refs/01-headshot-front.png",
+    "proof": "kip-morrow/proof/kip-morrow-proof.mp4",
+    "refs": [
+      "kip-morrow/refs/01-headshot-front.png",
+      "kip-morrow/refs/02-profile-left.png",
+      "kip-morrow/refs/03-profile-right.png",
+      "kip-morrow/refs/04-fullbody-front.png",
+      "kip-morrow/refs/05-fullbody-rear.png",
+      "kip-morrow/refs/06-robot-bench.png",
+      "kip-morrow/refs/07-counter-regrip.png",
+      "kip-morrow/refs/08-night-flash.png",
+      "kip-morrow/refs/09-toggle-tell.png"
+    ]
+  },
+  "wardrobe_notes": {
+    "hoodie": "worn, sun-faded, pilled electric-lime pullover hoodie the color of #84CC16, unbranded, no print, hood down, small brown-black scorch burn on the LEFT cuff only",
+    "tshirt": "plain faded grey t-shirt under the hoodie",
+    "pants": "loose faded black work pants",
+    "shoes": "beat-up plain black canvas skate shoes with scuffed toes, no logos or stripes",
+    "ear_plug": "small solid matte-black plug, pencil-eraser size, LEFT earlobe only; right ear bare",
+    "led_band": "hand-soldered LED band on the LEFT wrist only: bare green circuit-board strip about 1 cm wide, five tiny lime-green surface-mount LEDs, silver solder blobs, plain black elastic strap, no logo or lettering",
+    "desk_robot": "palm-sized hand-built two-wheeled robot, scuffed grey unbranded chassis, visible red and black wiring, one round eye LED that lights lime green, one small silver bat-handle toggle switch on top",
+    "props": "blank natural-wood decks with no graphics, plain black grip tape, plain steel file, plain soldering iron in a stand, plain paper cup",
+    "hair": "shaggy dark black-brown mop, ear-length, messy fringe to the eyebrows, a few bleached brassy-blond tips at the fringe only; from behind ends just above the hoodie collar",
+    "no": "no other jewelry, no necklace, no watch, no hat, no rings, no brands, no printed deck graphics, no readable text"
+  },
+  "photography": "Candid real photography: mixed phone-camera and 35mm documentary looks, harsh skate-shop fluorescent tubes, a warm clamp-on workbench lamp, phone flash at night, mixed color casts, slight under- or overexposure, sensor noise, grain, imperfect focus, real skin with pores and faded acne marks, scuffed hands. Tired after-close candids; a small closed-mouth smirk at most, in one or two frames; mid-task moments, not hero poses or skate-ad stances.",
+  "visible_locks": [
+    "small solid matte-black plug in the LEFT earlobe only; right ear bare; hide it in a right profile, never flip it",
+    "hand-soldered green circuit-board LED band with five lime-green LEDs on the LEFT wrist only; right wrist bare",
+    "worn faded electric-lime unbranded hoodie with a small scorch burn on the LEFT cuff only"
+  ],
+  "locked_date": "2026-11-22"
+}

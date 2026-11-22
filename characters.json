@@ -1,0 +1,99 @@
+{
+  "library": "SMF Open Character Library",
+  "created_by": "SMF Works",
+  "license": "CC0-1.0",
+  "credit": "optional",
+  "status": "unpublished local staging; first public release planned at five characters",
+  "characters": [
+    {
+      "id": "marisol-vey",
+      "name": "Marisol Vey",
+      "pronunciation": "MAIR-ih-sol VAY",
+      "age": "30s",
+      "hook": "A night-ferry radio operator who narrates the harbor.",
+      "genres": [
+        "noir",
+        "moody explainers",
+        "harbor drama",
+        "late-night documentary"
+      ],
+      "signature_color": "#1B4F4A",
+      "thumbnail": "marisol-vey/refs/01-headshot-front.jpg",
+      "folder": "marisol-vey",
+      "status": "locked",
+      "locked_date": "2026-11-22"
+    },
+    {
+      "id": "theo-banks",
+      "name": "Theo Banks",
+      "pronunciation": "THEE-oh BANKS",
+      "age": "20s",
+      "hook": "A high-energy street food-truck cook who works a late-night window.",
+      "genres": [
+        "upbeat promos",
+        "product ads",
+        "food spots",
+        "funk-pop commercials"
+      ],
+      "signature_color": "#C2410C",
+      "thumbnail": "theo-banks/refs/01-headshot-front.jpg",
+      "folder": "theo-banks",
+      "status": "locked",
+      "locked_date": "2026-11-22"
+    },
+    {
+      "id": "juniper-hale",
+      "name": "Juniper Hale",
+      "pronunciation": "JOO-nih-per HAYL",
+      "age": "20s",
+      "hook": "A mountain search-and-rescue pilot who flies a light utility helicopter.",
+      "genres": [
+        "adventure",
+        "action",
+        "outdoor brands",
+        "anthemic indie"
+      ],
+      "signature_color": "#3E6B8A",
+      "thumbnail": "juniper-hale/refs/01-headshot-front.jpg",
+      "folder": "juniper-hale",
+      "status": "locked",
+      "locked_date": "2026-11-22"
+    },
+    {
+      "id": "iris-okafor",
+      "name": "Dr. Iris Okafor",
+      "pronunciation": "EYE-ris oh-KAH-for",
+      "age": "40s",
+      "hook": "A planetarium curator who runs the late show under an aging star projector.",
+      "genres": [
+        "science",
+        "education",
+        "homeschool content",
+        "cinematic ballads"
+      ],
+      "signature_color": "#2E2A6B",
+      "thumbnail": "iris-okafor/refs/01-headshot-front.jpg",
+      "folder": "iris-okafor",
+      "status": "locked",
+      "locked_date": "2026-11-22"
+    },
+    {
+      "id": "kip-morrow",
+      "name": "Kip Morrow",
+      "pronunciation": "KIP MOR-oh",
+      "age": "late teens",
+      "hook": "A skate-shop kid who builds small robots in the back room after closing.",
+      "genres": [
+        "tech",
+        "gaming",
+        "Gen Z promos",
+        "lo-fi and bedroom pop"
+      ],
+      "signature_color": "#84CC16",
+      "thumbnail": "kip-morrow/refs/01-headshot-front.jpg",
+      "folder": "kip-morrow",
+      "status": "locked",
+      "locked_date": "2026-11-22"
+    }
+  ]
+}

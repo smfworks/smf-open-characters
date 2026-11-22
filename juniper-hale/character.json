@@ -1,0 +1,63 @@
+{
+  "id": "juniper-hale",
+  "name": "Juniper Hale",
+  "pronunciation": "JOO-nih-per HAYL",
+  "age": "20s",
+  "age_detail": "mid-20s",
+  "hook": "A mountain search-and-rescue pilot who flies a light utility helicopter.",
+  "genres": [
+    "adventure",
+    "action",
+    "outdoor brands",
+    "anthemic indie"
+  ],
+  "signature_color": "#3E6B8A",
+  "signature_color_name": "tarn",
+  "thumbnail": "juniper-hale/refs/01-headshot-front.jpg",
+  "folder": "juniper-hale",
+  "license": "CC0-1.0",
+  "credit": "optional",
+  "created_by": "SMF Works",
+  "status": "locked",
+  "tell": "She knocks once on her helmet, then her hand comes off.",
+  "story": "Juniper Hale flies a light utility helicopter for a high-valley search-and-rescue unit, out of a cold hangar that still smells like oil and coffee. She takes the radio call when a hiker is overdue on the ridge, and she talks the way she flies: calm, a little dry, no wasted motion. The ship is marked JX-07, a tired machine she trusts more than she admits. She learned to fly from her aunt, who ran a backcountry shuttle, and she still knocks once on the helmet before she lifts, a habit she cannot drop. On good days the tarn below the ridge is a dark coin of water and the wind is honest. On hard days she holds a hover in the rotor wash until they have the person. She will not make a speech about it. She will say the weather window is twenty minutes, the landing is tight, and if you hold still she will get you home.",
+  "identity_block": "Juniper Hale, a woman in her mid-20s, about 5 feet 7 inches tall, lean and wiry, strong through the shoulders, forearms, and hands from flying and rescue work. A slightly long oval face with high, wind-flushed cheekbones, a straight nose with a small uneven bump on the bridge, a wide mouth with a softly full lower lip, and natural asymmetry (the left eye a touch narrower, the smile a little higher on the left). Fair-to-light olive skin that tans unevenly and goes pink in the wind, a scatter of real freckles across the nose and upper cheeks, visible but moderate pores, peach fuzz, a few dry patches on the cheeks, and under-eye texture from early callouts. Hazel-green eyes, slightly deep-set, with a cool gray ring, natural lashes with no mascara polish, no sparkly catchlights — only a small dim natural highlight if any. When she smiles, the teeth are slightly off-white with natural variation, not an even ad-white row. Fictional original face, not a likeness of any real person or celebrity. Four visible locks only: (1) a small unadorned silver stud in the left earlobe only — in a right profile the stud is on the far side and must be hidden, never moved to the visible right ear; (2) a short pale nick-scar cutting through the outer third of the left eyebrow only, about a fingernail long, breaking the brow hair — in a right profile it is on the far side and must be hidden, never flipped to the right eyebrow; (3) a postage-stamp-sized faded dark-green line-work tattoo of a simple three-peak mountain range, clearly mountains with a little ground line, no square stamp border, on the outer left wrist only — the thumb-side, radial side of the wrist, facing out when the arm hangs, not the back of the hand, not mid-forearm, and not on the right arm; (4) medium chestnut-brown hair with a little sun-lightening, a practical short crop — slightly tousled on top, about two to three inches, tapered close at the sides and nape, no part, no streak, no undercut design — and from behind the hair ends at the nape, well above the collar, never a ponytail, never past the collar. Signature wardrobe: a well-worn olive-drab flight suit, slightly faded and scuffed at the knees and cuffs, unzipped a little at the throat; a faded tarn-blue merino or fleece midlayer the color of #3E6B8A showing at the collar; scuffed dark brown hiking boots. No helmet and no headset in the lock portraits (01–05); the hair, left-ear stud, and left eyebrow scar stay visible. In the cockpit and on the line she wears a matte graphite flight helmet with a clear or smoked visor, unbranded, no manufacturer logos. She often carries a plain unbranded handheld radio with no brand marks. Photographed as a real person in candid, imperfect light: mixed 35mm documentary and phone-camera looks, overcast and cold hangar light (sodium or fluorescent mixed with grey daylight), cold ridge weather, rotor-wash dust, sensor noise, imperfect focus, natural skin, no beauty retouching, no CGI or plastic sheen. Tired, wind-burned candids; a small real smile at most, in one or two frames; mid-task moments, not hero poses or recruiting-ad stances.",
+  "voice": "anthemic indie rock; mid-20s alto, warm and a little grainy, calm in the verse, open in the chorus",
+  "assets": {
+    "contact_sheet": "juniper-hale/contact-sheet.png",
+    "headshot": "juniper-hale/refs/01-headshot-front.png",
+    "proof": "juniper-hale/proof/juniper-hale-proof.mp4",
+    "refs": [
+      "juniper-hale/refs/01-headshot-front.png",
+      "juniper-hale/refs/02-profile-left.png",
+      "juniper-hale/refs/03-profile-right.png",
+      "juniper-hale/refs/04-fullbody-front.png",
+      "juniper-hale/refs/05-fullbody-rear.png",
+      "juniper-hale/refs/06-cockpit-preflight.png",
+      "juniper-hale/refs/07-ridge-radio.png",
+      "juniper-hale/refs/08-hangar-mug.png",
+      "juniper-hale/refs/09-winch-rotorwash.png"
+    ]
+  },
+  "wardrobe_notes": {
+    "flight_suit": "well-worn olive-drab flight suit, unzipped a little at the throat",
+    "midlayer": "faded tarn-blue merino or fleece midlayer the color of #3E6B8A at the collar",
+    "boots": "scuffed dark brown hiking boots",
+    "helmet": "matte graphite unbranded flight helmet, clear or smoked visor, cockpit and line only; no helmet in lock portraits 01-05",
+    "radio": "plain unbranded handheld radio, no brand marks",
+    "mug": "plain unprinted enamel mug, no logos or lettering",
+    "aircraft": "generic weathered utility helicopter, fictional tail marking JX-07 only, no manufacturer or agency logos",
+    "tattoo": "postage-stamp-sized faded dark-green three-peak mountain line-work, outer left wrist only, thumb-side, no stamp border",
+    "ear_stud": "small unadorned silver stud, left earlobe only",
+    "brow_scar": "short pale nick-scar through the outer third of the left eyebrow only",
+    "hair": "medium chestnut-brown practical short crop, two to three inches on top, tapered close at the sides and nape, ends at the nape from behind"
+  },
+  "photography": "Candid real photography: mixed 35mm documentary and phone-camera looks, overcast and cold hangar light (sodium or fluorescent mixed with grey daylight), cold ridge weather, rotor-wash dust, sensor noise, imperfect focus, moderate pores, slightly off-white natural teeth, no beauty sheen. Tired, wind-burned candids; a small real smile at most, in one or two frames; mid-task moments, not hero poses.",
+  "visible_locks": [
+    "small unadorned silver stud, left earlobe only",
+    "short pale nick-scar through the outer third of the left eyebrow only",
+    "postage-stamp three-peak mountain tattoo, outer left wrist only",
+    "medium chestnut-brown short crop, two to three inches on top, tapered at the nape, same length from behind"
+  ],
+  "locked_date": "2026-11-22"
+}

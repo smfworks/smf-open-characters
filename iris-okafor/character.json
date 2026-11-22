@@ -1,0 +1,63 @@
+{
+  "id": "iris-okafor",
+  "name": "Dr. Iris Okafor",
+  "pronunciation": "EYE-ris oh-KAH-for",
+  "age": "40s",
+  "age_detail": "mid-40s",
+  "hook": "A planetarium curator who runs the late show under an aging star projector.",
+  "genres": [
+    "science",
+    "education",
+    "homeschool content",
+    "cinematic ballads"
+  ],
+  "signature_color": "#2E2A6B",
+  "signature_color_name": "dome indigo",
+  "thumbnail": "iris-okafor/refs/01-headshot-front.jpg",
+  "folder": "iris-okafor",
+  "license": "CC0-1.0",
+  "credit": "optional",
+  "created_by": "SMF Works",
+  "status": "locked",
+  "tell": "She clicks her laser pointer off once and looks up at the dome.",
+  "story": "Dr. Iris Okafor curates a small municipal planetarium that runs on an old optomechanical star projector, a borrowed budget, and her own late nights. She trained as an astrophysicist, spent a few years on survey data she never saw in person, and came home to the dome because she wanted people in the room when the sky came up. She runs the school matinees, the homeschool Tuesdays, and the Friday late show, and in between she is under the projector with a flashlight and a screwdriver, coaxing one more season out of a lamp that should have been replaced years ago. She talks the way a good teacher listens: slowly, with room for the question. Her reading glasses live on a cord because she lost three pairs in the dark. At the end of every show she clicks the laser pointer off once, and for a second she just looks up at the dome with everyone else, as if she is seeing it for the first time too. She will tell you the light you are looking at left before anyone in the room was born, and that this is not a sad thing.",
+  "identity_block": "Dr. Iris Okafor, a Black woman in her mid-40s, about 5 feet 6 inches tall, medium build with soft shoulders and a little softness at the waist, the posture of someone who stands and talks for a living. A rounded heart-shaped face with full cheeks, a broad soft nose, a wide mouth with a fuller lower lip, a slightly strong chin, and natural asymmetry (the right eyebrow sits a touch higher, the smile pulls a little to the left). Deep brown skin with warm undertones and real texture: visible but moderate pores, faint smile lines, soft creases at the outer eyes, slight under-eye darkness and puffiness from late shows, a few small dark spots on the cheekbones, uneven tone, bare skin with no makeup. Dark brown, slightly hooded eyes, natural short lashes with no mascara polish, no sparkly catchlights, only a small dim natural highlight if any. When she smiles it is small and closed-lipped; if teeth ever show they are slightly off-white with natural variation, not an even ad-white row. Fictional original face, not a likeness of any real person, scientist, broadcaster, or celebrity. Three visible locks only: (1) short natural coils, about one and a half to two inches all over, rounded and close to the head, no part, no braids, no locs, no straightened hair, black-brown in color with a soft patch of grey coils at her RIGHT temple only, about the size of a palm, sweeping back above the right ear — the left temple stays dark; in a left profile the grey patch is on the far side and must be mostly hidden, never flipped to the left temple; from behind the coils stay the same short length, ending at the nape, with only a faint edge of grey at the right side; (2) a thin plain silver band ring on her RIGHT thumb only, sitting on the thumb itself between the base and the knuckle, no stone, and no rings on any finger of either hand — never on the ring finger or index finger; (3) reading glasses with thin dark tortoiseshell rims on a thin plain black cord around her neck, usually hanging at mid-chest, sometimes worn low on the nose to read, never pushed up into the hair, and only one pair ever — never a pair on her face while a second pair hangs on the cord. Signature wardrobe: a slightly pilled deep dome-indigo crewneck wool cardigan the color of #2E2A6B, buttoned or open, over a plain charcoal-grey knit top; dark grey loose trousers; worn black flat leather shoes. No lanyard, no badge, no name tag, no earrings, no necklace other than the glasses cord. In the dome she often holds a small plain matte-black pen-style laser pointer with no print, no logo, no lettering, in her right hand, thumb near the single button. Photographed as a real person in candid, imperfect light: mixed 35mm documentary and phone-camera looks, dim planetarium dome light, cool projector spill and star-field glow, office fluorescents, a desk lamp, console LEDs, mixed practical color casts, slight underexposure, sensor noise, grain, imperfect focus, natural skin, no beauty retouching, no CGI or plastic sheen. Tired, late-shift candids; a small closed-lip smile at most, in one or two frames; mid-task moments, not hero poses, not museum-ad stances.",
+  "voice": "cinematic ballad; mid-40s warm alto, unhurried, close and conversational in the verse, opening into a full, round chorus",
+  "assets": {
+    "contact_sheet": "iris-okafor/contact-sheet.png",
+    "headshot": "iris-okafor/refs/01-headshot-front.png",
+    "proof": "iris-okafor/proof/iris-okafor-proof.mp4",
+    "refs": [
+      "iris-okafor/refs/01-headshot-front.png",
+      "iris-okafor/refs/02-profile-left.png",
+      "iris-okafor/refs/03-profile-right.png",
+      "iris-okafor/refs/04-fullbody-front.png",
+      "iris-okafor/refs/05-fullbody-rear.png",
+      "iris-okafor/refs/06-dome-console.png",
+      "iris-okafor/refs/07-projector-maintenance.png",
+      "iris-okafor/refs/08-office-mug.png",
+      "iris-okafor/refs/09-dome-talk.png"
+    ]
+  },
+  "wardrobe_notes": {
+    "cardigan": "slightly pilled deep dome-indigo wool crewneck cardigan the color of #2E2A6B",
+    "top": "plain charcoal-grey knit top",
+    "trousers": "loose dark grey trousers",
+    "shoes": "worn black flat leather shoes",
+    "glasses": "thin dark tortoiseshell reading glasses on a thin plain black cord, usually hanging at mid-chest, sometimes worn low on the nose to read, one pair only",
+    "thumb_ring": "thin plain silver band, right thumb only, no stone, no rings on any finger",
+    "laser_pointer": "small plain matte-black pen-style laser pointer, single button, no print, no logo, no lettering, right hand",
+    "mug": "plain unprinted off-white ceramic mug, no logos or lettering",
+    "star_projector": "generic old optomechanical star projector, a dark lens-studded sphere on a scuffed pedestal, unbranded",
+    "console": "worn operator console with unlabeled buttons, faders and LEDs, no readable text",
+    "hair": "short natural coils, one and a half to two inches all over, black-brown, palm-sized grey patch at the right temple only, same length from behind ending at the nape",
+    "no": "no lanyard, no badge, no name tag, no earrings, no necklace other than the glasses cord"
+  },
+  "photography": "Candid real photography: mixed 35mm documentary and phone-camera looks, dim planetarium dome light, projector spill and star-field glow, office fluorescents, a desk lamp, console LEDs, mixed color casts, slight underexposure, sensor noise, grain, imperfect focus, real skin, no makeup, no beauty sheen. Tired late-shift candids; a small closed-lip smile at most, in one or two frames; mid-task moments, not hero poses.",
+  "visible_locks": [
+    "short natural coils with a palm-sized grey patch at the right temple only; left temple dark; same short length from behind",
+    "thin plain silver band ring on the right thumb only; no rings on any finger",
+    "thin tortoiseshell reading glasses on a thin plain black cord, one pair only"
+  ],
+  "locked_date": "2026-11-22"
+}
