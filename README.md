@@ -1,5 +1,7 @@
 # SMF Open Character Library
 
+![SMF Open Character Library: Kip Morrow, Theo Banks, Marisol Vey, Juniper Hale and Dr. Iris Okafor](assets/hero.jpg)
+
 A public catalog of original characters you can use as-is, remix, or hire SMF Works to produce with.
 
 Each character ships as a complete kit: reference stills, a locked identity block, a short story with one on-camera tell, still and image-to-video prompts, a Suno voice prompt with song directions, and a short proof video. The idea is low friction. Open a folder, copy a prompt, start making something.
