@@ -36,4 +36,4 @@ You may use Marisol, these stills, the prompts, and the proof video for any purp
 
 Do not present Marisol as an official spokesperson for SMF Works, and do not treat her as a portrait of a real person. She is a fictional original character.
 
-You can keep her as written, change the wardrobe or setting, or commission SMF Works to produce ads and promos with her (as-is or modified).
+You can keep her as written, or change the wardrobe or setting.
