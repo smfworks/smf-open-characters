@@ -29,6 +29,7 @@ These characters are fictional. They are not portraits of real people.
 | [Juniper Hale](juniper-hale/) | A mountain search-and-rescue pilot who flies a light utility helicopter. | Adventure, action, outdoor brands | `juniper-hale/` |
 | [Dr. Iris Okafor](iris-okafor/) | A planetarium curator who runs the late show under an aging star projector. | Science, education, homeschool | `iris-okafor/` |
 | [Kip Morrow](kip-morrow/) | A skate-shop kid who builds small robots in the back room after closing. | Tech, gaming, Gen Z promos | `kip-morrow/` |
+| [Amara Blaze](amara-blaze/) | A Grand Rapids diner server who still drives back to Lake Michigan when the shift is ugly. | Slice-of-life, indie shorts | `amara-blaze/` |
 
 The machine-readable catalog is [`characters.json`](characters.json).
 
@@ -58,4 +59,4 @@ You can keep a character exactly as written, or change wardrobe, setting, and ag
 
 ## Status
 
-This repository is staged locally for review and is not published yet. The first public release will launch with five original characters. All five launch characters (Marisol Vey, Theo Banks, Juniper Hale, Dr. Iris Okafor and Kip Morrow) are locked (22 Nov 2026). Later kits start from the notes in [`LESSONS.md`](LESSONS.md).
+The catalog has six locked characters. Marisol Vey, Theo Banks, Juniper Hale, Dr. Iris Okafor and Kip Morrow were locked on 22 Nov 2026. Amara Blaze was locked on 23 Nov 2026. Later kits start from the notes in [`LESSONS.md`](LESSONS.md).

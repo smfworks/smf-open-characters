@@ -3,7 +3,7 @@
   "created_by": "SMF Works",
   "license": "CC0-1.0",
   "credit": "optional",
-  "status": "unpublished local staging; first public release planned at five characters",
+  "status": "catalog has six locked characters",
   "characters": [
     {
       "id": "marisol-vey",
@@ -94,6 +94,24 @@
       "folder": "kip-morrow",
       "status": "locked",
       "locked_date": "2026-11-22"
+    },
+    {
+      "id": "amara-blaze",
+      "name": "Amara Blaze",
+      "pronunciation": "uh-MAR-uh BLAZE",
+      "age": "24",
+      "hook": "A Grand Rapids diner server who still drives back to Lake Michigan when the shift is ugly.",
+      "genres": [
+        "slice-of-life",
+        "indie shorts",
+        "diner spots",
+        "folk-pop"
+      ],
+      "signature_color": "#A8442E",
+      "thumbnail": "amara-blaze/refs/01-headshot-front.jpg",
+      "folder": "amara-blaze",
+      "status": "locked",
+      "locked_date": "2026-11-23"
     }
   ]
 }

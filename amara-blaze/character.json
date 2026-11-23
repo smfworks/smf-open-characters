@@ -1,0 +1,58 @@
+{
+  "id": "amara-blaze",
+  "name": "Amara Blaze",
+  "pronunciation": "uh-MAR-uh BLAZE",
+  "age": "24",
+  "age_detail": "24",
+  "hook": "A Grand Rapids diner server who still drives back to Lake Michigan when the shift is ugly.",
+  "genres": [
+    "slice-of-life",
+    "indie shorts",
+    "diner spots",
+    "folk-pop"
+  ],
+  "signature_color": "#A8442E",
+  "signature_color_name": "ember rust",
+  "thumbnail": "amara-blaze/refs/01-headshot-front.jpg",
+  "folder": "amara-blaze",
+  "license": "CC0-1.0",
+  "credit": "optional",
+  "created_by": "Outside creator (CC0 contribution); SMF Works developed the reference set, story and proof",
+  "status": "locked",
+  "tell": "She drops the needle on a record and waits a beat for the first note.",
+  "story": "Amara Blaze works the open-to-two shift at a worn independent diner a few blocks off Division in Grand Rapids, the kind of place with a pie case, a radio that never quite finds the station, and a coffee pot that has been on too long. She grew up in a lakeshore town in West Michigan, came inland for cheap rent and a job that started at five, and she still drives back to the water when the shift is ugly. Her Civic has a cracked dash and a glovebox full of burned CDs. She talks with a warm, slightly nasal Midwest clip, and she remembers regulars' orders before they sit down.\n\nAfter the last ticket she often ends up at a used record shop on the way home, flipping through the dollar bin with a paper cup of diner coffee gone cold. On quiet Sundays she parks at a Lake Michigan turnout and lets the wind take the smell of fryer oil out of her hair. She will not make a speech about any of that. She will say the walnut pie is better than the cherry, the lake is colder than it looks, and if you wait she will put a fresh pot on.",
+  "identity_block": "Amara Blaze, a woman of 24, a diner server of everyday build. A softer oval face with fuller rounded apple cheeks, a shorter softer chin, a gently defined jaw, a straight small refined button nose, stronger defined slightly arched mid-auburn brows, and larger more-open almond eyes in a vivid natural green; a fuller defined lower lip with a cupid's bow and a soft pink-mauve tinted-balm, and a slight closed-mouth smirk at rest. Fair skin with natural texture, visible but moderate pores, peach fuzz, and under-eye texture, photographed candidly, not with a beauty-studio finish. Fictional original face, not a likeness of any real person or celebrity. Fire-red / bright orange-copper jaw-length wavy hair, not shoulder-length, with natural flyaways. Visible locks: (1) a small faded healed-ink outline triangle tattoo on her left side of the neck (photo-right in a front view) — in a right profile or a rear view it is on the far side and must be hidden, never flipped to the right side of the neck (photo-left in a front view); if the tattoo cannot be placed correctly, hide it rather than flip it; the tattoo-free fallback is a green butterfly hair clip on the left side of her hair (do not invent or move a wrong-side tattoo); (2) small gold hoop earrings when the ears are visible; (3) the fire-red jaw-length wavy hair and the vivid natural green eyes. Outfit varies; the grey sweater is incidental, not a wardrobe lock. Across the reference set she may wear a rust-orange work shirt, a mustard knit, a sage-green button-up, an olive chore coat over a cream tee with jeans and brown lace-up boots, a navy wool coat with jeans and brown boots, a pale-blue tee and a tan canvas apron on a diner shift, a camel coat and rust scarf at the lake, a brown jacket over a maroon hoodie at night, or a cream thermal in a record shop. Photographed as a real person in candid, imperfect light: mixed 35mm documentary and phone-camera looks, practical diner, lake, and shop light, sensor noise, imperfect focus, natural skin, no beauty retouching, no CGI or plastic sheen.",
+  "voice": "warm, slightly nasal Midwest, conversational; 24, Michigan",
+  "assets": {
+    "contact_sheet": "amara-blaze/contact-sheet.png",
+    "headshot": "amara-blaze/refs/01-headshot-front.png",
+    "proof": "amara-blaze/proof/amara-blaze-proof.mp4",
+    "refs": [
+      "amara-blaze/refs/01-headshot-front.png",
+      "amara-blaze/refs/02-profile-left.png",
+      "amara-blaze/refs/03-profile-right.png",
+      "amara-blaze/refs/04-fullbody-front.png",
+      "amara-blaze/refs/05-fullbody-rear.png",
+      "amara-blaze/refs/06-diner-shift.png",
+      "amara-blaze/refs/07-lake-michigan-wind.png",
+      "amara-blaze/refs/08-gas-station-night.png",
+      "amara-blaze/refs/09-record-shop.png"
+    ]
+  },
+  "wardrobe_notes": {
+    "rule": "outfit varies; the grey sweater is incidental, not a wardrobe lock",
+    "tattoo": "small faded healed-ink outline triangle on her left side of the neck (photo-right in a front view); hide in a right profile and rear; never flip; green butterfly hair clip on the left side of her hair is the tattoo-free fallback",
+    "earrings": "small gold hoops when the ears are visible",
+    "hair": "fire-red / bright orange-copper jaw-length wavy hair, not shoulder-length",
+    "eyes": "vivid natural green",
+    "ref_range": "rust-orange work shirt; mustard knit; sage-green button-up; olive chore coat, cream tee, jeans, brown lace-up boots; navy wool coat and brown boots; pale-blue tee and tan canvas apron; camel coat and rust scarf; brown jacket over a maroon hoodie; cream thermal"
+  },
+  "photography": "Candid real photography: mixed 35mm documentary and phone-camera looks, practical diner, lake, and shop light, sensor noise, imperfect focus, moderate pores, no beauty sheen, no sparkly catchlights, no lash polish.",
+  "visible_locks": [
+    "small faded healed-ink outline triangle tattoo, her left side of the neck only (photo-right in a front view); hide in a right profile and rear; never flip; green butterfly-clip fallback on the left side of her hair",
+    "small gold hoop earrings when the ears are visible",
+    "fire-red / bright orange-copper jaw-length wavy hair, not shoulder-length",
+    "vivid natural green eyes"
+  ],
+  "locked_date": "2026-11-23"
+}
