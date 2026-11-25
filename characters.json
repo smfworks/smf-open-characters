@@ -3,7 +3,7 @@
   "created_by": "SMF Works",
   "license": "CC0-1.0",
   "credit": "optional",
-  "status": "catalog has six locked characters",
+  "status": "catalog has eight locked characters",
   "characters": [
     {
       "id": "marisol-vey",
@@ -112,6 +112,42 @@
       "folder": "amara-blaze",
       "status": "locked",
       "locked_date": "2026-11-23"
+    },
+    {
+      "id": "silas-crane",
+      "name": "Silas Crane",
+      "pronunciation": "SY-lus KRAYN",
+      "age": "60s",
+      "hook": "A Blue Ridge farrier who still runs a coal forge behind his barn.",
+      "genres": [
+        "country",
+        "Americana",
+        "craft",
+        "heritage"
+      ],
+      "signature_color": "#C9921A",
+      "thumbnail": "silas-crane/refs/01-headshot-front.jpg",
+      "folder": "silas-crane",
+      "status": "locked",
+      "locked_date": "2026-11-25"
+    },
+    {
+      "id": "noor-haddad",
+      "name": "Noor Haddad",
+      "pronunciation": "NOOR hah-DAD",
+      "age": "30s",
+      "hook": "A late-shift data journalist who stays until a number makes sense.",
+      "genres": [
+        "business",
+        "finance",
+        "AI news",
+        "numbers explainers"
+      ],
+      "signature_color": "#1F4EAD",
+      "thumbnail": "noor-haddad/refs/01-headshot-front.jpg",
+      "folder": "noor-haddad",
+      "status": "locked",
+      "locked_date": "2026-11-25"
     }
   ]
 }

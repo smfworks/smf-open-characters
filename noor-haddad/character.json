@@ -1,0 +1,57 @@
+{
+  "id": "noor-haddad",
+  "name": "Noor Haddad",
+  "pronunciation": "NOOR hah-DAD",
+  "age": "30s",
+  "age_detail": "30s",
+  "hook": "A late-shift data journalist who stays until a number makes sense.",
+  "genres": [
+    "business",
+    "finance",
+    "AI news",
+    "numbers explainers"
+  ],
+  "signature_color": "#1F4EAD",
+  "signature_color_name": "newsroom cobalt",
+  "thumbnail": "noor-haddad/refs/01-headshot-front.jpg",
+  "folder": "noor-haddad",
+  "license": "CC0-1.0",
+  "credit": "optional",
+  "created_by": "SMF Works",
+  "status": "locked",
+  "locked_date": "2026-11-25",
+  "tell": "She uncaps a red pen and circles one number on a printout.",
+  "story": "Noor Haddad works the late shift at a regional newsroom, the kind of desk that is still lit when the bullpen has gone home, with a printout, a red felt-tip, and a monitor full of charts no one else wanted to sit with. She came to data journalism because a number, checked twice, can do what a quote sometimes cannot. She stays until the figure makes sense. She talks in a clear, measured alto, and she will not publish a chart she cannot defend.\n\nAfter midnight she often stands at the office window with her hands in her pockets and looks at the city lights without really seeing them. She will not make a speech about any of that. She will say the axis is wrong, the sample is thin, and if you wait she will circle the one number that matters.",
+  "identity_block": "Noor Haddad, a woman in her 30s, about 5 feet 6 inches tall, slim through the shoulders with a slight writer's slouch, long-fingered hands. A long oval face with a slightly narrow jaw, high modest cheekbones, a straight medium-width nose with a softly rounded tip, a defined philtrum, a wide mouth with a fuller lower lip, and natural asymmetry (the left eyebrow sitting a touch higher, the right eyelid a little heavier). Warm medium-olive skin with golden undertones, uneven tone, visible but moderate pores, peach fuzz, faint under-eye shadow from late shifts, and fine lines starting at the outer eye corners. Dark amber-brown eyes, almond-shaped and slightly downturned at the outer corners, heavy natural lashes with no mascara polish, no sparkly catchlights \u2014 only a small dim natural highlight if any. Natural unpainted matte lips, no lipstick, no gloss, and no balm sheen. Fictional original face, not a likeness of any real person or celebrity. Three visible locks only: (1) thick nearly-black hair with a faint warm-brown cast under fluorescent light, worn in a slightly messy low bun pinned at the nape, a soft off-center part slightly toward her left, and a few loose wavy tendrils at both temples and the nape \u2014 from behind the bun sits low at the nape, not a high bun, and the hair is not worn loose; (2) a small dark mole on the upper right cheekbone, well below the outer eye and well above the mouth \u2014 in a front view it sits on the left side of the photo; in a view that shows her left side it is on the far side and must be hidden, never flipped to the left cheek; if the mole cannot be placed correctly, hide it rather than flip it; (3) a thin worn gold chain with no pendant, always visible at the collarbone, and tiny plain gold stud earrings in both ears when the ears are visible. Signature wardrobe: a slightly rumpled newsroom-cobalt cotton button-down the color of #1F4EAD \u2014 a deep saturated cobalt, not a bright mid-blue and not navy \u2014 sleeves rolled to the elbow, over a plain white undershirt; dark charcoal straight trousers; scuffed black leather loafers. At the desk she often wears a faded charcoal cardigan over the cobalt shirt, and a cheap red felt-tip pen is usually nearby. Backgrounds use blank or abstract charts only: no readable typography, no faces on boards, no logos, and no stray silhouettes or reflections. Photographed as a real person in candid, imperfect light: mixed 35mm documentary and phone-camera looks, hard fluorescent tubes and monitor glow, sensor noise, imperfect focus, natural skin, no beauty retouching, no CGI or plastic sheen.",
+  "voice": "clear measured late-night newsroom alto, 30s, close and dry, not cartoon; no auto-tune",
+  "assets": {
+    "contact_sheet": "noor-haddad/contact-sheet.png",
+    "headshot": "noor-haddad/refs/01-headshot-front.png",
+    "proof": "noor-haddad/proof/noor-haddad-proof.mp4",
+    "refs": [
+      "noor-haddad/refs/01-headshot-front.png",
+      "noor-haddad/refs/02-profile-left.png",
+      "noor-haddad/refs/03-profile-right.png",
+      "noor-haddad/refs/04-fullbody-front.png",
+      "noor-haddad/refs/05-fullbody-rear.png",
+      "noor-haddad/refs/06-newsroom-desk.png",
+      "noor-haddad/refs/07-window-night.png",
+      "noor-haddad/refs/08-close-reacting.png",
+      "noor-haddad/refs/09-red-pen.png"
+    ]
+  },
+  "wardrobe_notes": {
+    "rule": "rumpled newsroom-cobalt shirt the color of #1F4EAD, sleeves rolled, white undershirt, charcoal trousers, scuffed black loafers; desk variant may add a faded charcoal cardigan and a red felt-tip",
+    "hair": "nearly-black hair in a messy low bun at the nape, soft off-center part slightly toward her left, temple tendrils; not a high bun, not worn loose",
+    "mole": "small dark mole on the upper right cheekbone (photo-left in a front view); hide in a left-side view; never flip",
+    "jewelry": "thin worn gold chain with no pendant; tiny plain gold studs in both ears when visible",
+    "lips": "natural unpainted matte lips; no lipstick, gloss, or balm sheen",
+    "backgrounds": "blank or abstract charts only; no readable typography, no faces on boards, no logos, no stray silhouettes or reflections"
+  },
+  "photography": "Candid real photography: mixed 35mm documentary and phone-camera looks, hard fluorescent tubes and monitor glow, sensor noise, imperfect focus, moderate pores, no beauty sheen, no sparkly catchlights, no lash polish. Backgrounds use blank or abstract charts only.",
+  "visible_locks": [
+    "thick nearly-black hair in a slightly messy low bun at the nape, soft off-center part slightly toward her left, temple tendrils; not a high bun, not worn loose",
+    "small dark mole on the upper right cheekbone (photo-left in a front view); hide in a left-side view; never flip",
+    "thin worn gold chain with no pendant, visible at the collarbone, and tiny plain gold studs in both ears when visible"
+  ]
+}

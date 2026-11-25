@@ -30,6 +30,8 @@ These characters are fictional. They are not portraits of real people.
 | [Dr. Iris Okafor](iris-okafor/) | A planetarium curator who runs the late show under an aging star projector. | Science, education, homeschool | `iris-okafor/` |
 | [Kip Morrow](kip-morrow/) | A skate-shop kid who builds small robots in the back room after closing. | Tech, gaming, Gen Z promos | `kip-morrow/` |
 | [Amara Blaze](amara-blaze/) | A Grand Rapids diner server who still drives back to Lake Michigan when the shift is ugly. | Slice-of-life, indie shorts | `amara-blaze/` |
+| [Silas Crane](silas-crane/) | A Blue Ridge farrier who still runs a coal forge behind his barn. | Country, Americana, craft, heritage | `silas-crane/` |
+| [Noor Haddad](noor-haddad/) | A late-shift data journalist who stays until a number makes sense. | Business, finance, AI news, numbers explainers | `noor-haddad/` |
 
 The machine-readable catalog is [`characters.json`](characters.json).
 
@@ -59,4 +61,4 @@ You can keep a character exactly as written, or change wardrobe, setting, and ag
 
 ## Status
 
-The catalog has six locked characters. Marisol Vey, Theo Banks, Juniper Hale, Dr. Iris Okafor and Kip Morrow were locked on 22 Nov 2026. Amara Blaze was locked on 23 Nov 2026. Later kits start from the notes in [`LESSONS.md`](LESSONS.md).
+The catalog has eight locked characters. Marisol Vey, Theo Banks, Juniper Hale, Dr. Iris Okafor and Kip Morrow were locked on 22 Nov 2026. Amara Blaze was locked on 23 Nov 2026. Silas Crane and Noor Haddad were locked on 25 Nov 2026. Later kits start from the notes in [`LESSONS.md`](LESSONS.md).

@@ -1,0 +1,56 @@
+{
+  "id": "silas-crane",
+  "name": "Silas Crane",
+  "pronunciation": "SY-lus KRAYN",
+  "age": "60s",
+  "age_detail": "60s",
+  "hook": "A Blue Ridge farrier who still runs a coal forge behind his barn.",
+  "genres": [
+    "country",
+    "Americana",
+    "craft",
+    "heritage"
+  ],
+  "signature_color": "#C9921A",
+  "signature_color_name": "forge amber",
+  "thumbnail": "silas-crane/refs/01-headshot-front.jpg",
+  "folder": "silas-crane",
+  "license": "CC0-1.0",
+  "credit": "optional",
+  "created_by": "SMF Works",
+  "status": "locked",
+  "locked_date": "2026-11-25",
+  "tell": "He gives the anvil horn two light hammer taps before he speaks.",
+  "story": "Silas Crane works a coal forge behind his barn in the Blue Ridge, the kind of shop where the floor is packed dirt and scale, the anvil sits in a ring of scorch marks, and the radio, when it is on, is turned down low. Neighbors still trailer horses to him for shoes, and he will repair a broken hinge or a wagon iron if you leave it by the door. He learned the work from his father and never saw a reason to switch the fire to propane. He talks in an unhurried Appalachian baritone, and he does not fill a silence just to be polite.\n\nIn the late afternoon he often stands in the barn door with a rag in his hand and watches the light go off the ridge. He will not make a speech about any of that. He will say the shoe is tight enough, the coal is burning clean, and if you wait he will finish the last tap.",
+  "identity_block": "Silas Crane, a man in his 60s, about 5 feet 11 inches tall, solid through the chest and forearms from a lifetime at the anvil, a slight working stoop in the shoulders, thick-knuckled weathered hands with stained nail beds and a few old nicks. A long weathered rectangular face with a high forehead, deep nasolabial folds, crow's feet, a softly squared jaw hidden by the beard, a straight medium-wide nose with a faint bump on the bridge slightly left of center from an old break, a thin closed mouth, and natural asymmetry (the left eye a touch more hooded, the right brow sitting a little lower). Weathered fair-ruddy skin, sun-darkened on the forehead and cheekbones and paler under the beard, uneven tone, a few small age spots at the temples, visible pores, broken capillaries on the nose and cheeks, and under-eye bags. Pale gray-blue eyes, deep-set, slightly watery, heavy lids, bushy mixed silver-and-dark brows, natural lashes, no sparkly catchlights \u2014 only a small dim natural highlight if any. Fictional original face, not a likeness of any real person or celebrity. Three visible locks only: (1) thinning close-cropped silver-white hair, receding at both temples, short and sparse on top with the scalp visible through the hair, no comb-over, no hat, and the same sparse length from behind ending well above the collar \u2014 keep the hair sparse like the locked front headshot, not a full thick white cap; a full short silver-white beard about two inches long, neatly kept but not salon-trimmed, slightly uneven at the edges, with a darker steel-gray streak only through the chin and the center of the mustache, not the cheeks; (2) a short pale nick-scar on the right cheek just above the beard line, about a fingernail long \u2014 in a front view it sits on the left side of the photo; in a view that shows his left side it is on the far side and must be hidden, never flipped to the left cheek; if the scar cannot be placed correctly, hide it rather than flip it; (3) a faded pale thumbprint-sized burn scar on the outer right forearm just below the rolled sleeve, only when that forearm is visible, never on the left arm \u2014 in a front view the right forearm is on the left side of the photo; in a rear view the right forearm is on the right side of the photo; if the burn cannot be placed on the right forearm, hide it rather than flip it. Signature wardrobe: a worn brown leather farrier's apron, darkened and scorched at the belly, over a faded indigo chambray work shirt with the sleeves rolled to mid-forearm; heavy dark-brown canvas work pants; scuffed chestnut leather work boots. A faded rust shop rag often hangs from the apron pocket. No logos, no printed typography on clothes, tools, drawers, or walls. Photographed as a real person in candid, imperfect light: mixed 35mm documentary and phone-camera looks, harsh uneven practical forge and barn light, soot, sweat, a messy working shop, sensor noise, imperfect focus, natural skin, no catalog sheen, no beauty retouching, no CGI or plastic sheen.",
+  "voice": "weathered unhurried Appalachian baritone, 60s, close and dry, not cartoon; country and craft, no auto-tune",
+  "assets": {
+    "contact_sheet": "silas-crane/contact-sheet.png",
+    "headshot": "silas-crane/refs/01-headshot-front.png",
+    "proof": "silas-crane/proof/silas-crane-proof.mp4",
+    "refs": [
+      "silas-crane/refs/01-headshot-front.png",
+      "silas-crane/refs/02-profile-left.png",
+      "silas-crane/refs/03-profile-right.png",
+      "silas-crane/refs/04-fullbody-front.png",
+      "silas-crane/refs/05-fullbody-rear.png",
+      "silas-crane/refs/06-forge-work.png",
+      "silas-crane/refs/07-barn-dusk.png",
+      "silas-crane/refs/08-close-reacting.png",
+      "silas-crane/refs/09-anvil-horn.png"
+    ]
+  },
+  "wardrobe_notes": {
+    "rule": "worn brown leather farrier's apron over faded indigo chambray, sleeves rolled to mid-forearm; heavy dark-brown canvas work pants; scuffed chestnut work boots; rust shop rag in the apron pocket",
+    "hair": "thinning close-cropped silver-white hair, sparse on top with scalp visible, no hat; short silver-white beard with steel-gray only through the chin and mustache center",
+    "cheek_scar": "short pale nick-scar on the right cheek just above the beard line (photo-left in a front view); hide in a left-side view; never flip",
+    "burn_scar": "faded pale thumbprint burn on the outer right forearm just below the rolled sleeve only (photo-left in a front view, photo-right in a rear view); never on the left arm; hide rather than flip",
+    "pants": "identity lock is dark-brown canvas; the full-body front still in this kit shows blue jeans \u2014 treat that as a wardrobe weak spot, not a change to the lock"
+  },
+  "photography": "Candid real photography: mixed 35mm documentary and phone-camera looks, harsh uneven practical forge and barn light, soot, sweat, a messy working shop, sensor noise, imperfect focus, moderate pores, no catalog sheen, no beauty retouching, no CGI.",
+  "visible_locks": [
+    "thinning close-cropped silver-white hair, sparse on top with the scalp visible, no hat, ending well above the collar from behind; keep it sparse like the locked headshot",
+    "short pale nick-scar on the right cheek just above the beard line (photo-left in a front view); hide in a left-side view; never flip",
+    "faded pale thumbprint burn on the outer right forearm just below the rolled sleeve only; never on the left arm; hide rather than flip"
+  ]
+}
