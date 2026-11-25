@@ -1,6 +1,6 @@
 # SMF Open Character Library
 
-![SMF Open Character Library: Kip Morrow, Theo Banks, Marisol Vey, Juniper Hale and Dr. Iris Okafor](assets/hero.jpg)
+![SMF Open Character Library: Kip Morrow, Amara Blaze, Theo Banks, Silas Crane, Marisol Vey, Noor Haddad, Juniper Hale and Dr. Iris Okafor](assets/hero.jpg)
 
 A public catalog of original characters you can use as-is or remix. Mobile app coming soon to handle the work for you.
 
